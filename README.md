@@ -10,27 +10,10 @@ A GUI-based Calculator developed using Python and Tkinter.
 - Division
 - Clear Function
 - User-Friendly Interface
-- Error Handling
 
-## Technologies Used
+## Output
 
-- Python
-- Tkinter
-
-## Project Structure
-
-smart-calculator/
-│
-├── calc.py
-└── README.md
-
-## How to Run
-
-1. Install Python
-2. Download the project
-3. Run:
-
-python calc.py
+![Calculator Output](calculator_output.png)
 
 ## Author
 
